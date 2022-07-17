@@ -1,3 +1,14 @@
+**--Command Line Interface--**
+Command line interface atau CLI adalah program yang memungkinkan pengguna mengetik perintah teks yang memerintahkan komputer untuk melakukan tugas tertentu. Cli biasa juga di sebut dengan terminal.
+
+**Jenis - jenis CLI**
+
+- Cmd
+- powershell
+
+<img src="CLI.png/">
+
+#
 **Materi Git**
 
 *GIT* adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan. 
