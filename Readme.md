@@ -56,11 +56,7 @@ Dengan adanya stagin area ini, para developer dapat memformat commit serta dapat
 
 Untuk dapat memulai Anda dapat membuat repository ataupun men checkout yang telah ada. 
 <img src="g.jpg/">
-
 #
-
-**--Materi Html--**
-
 **Apa itu HTML?**  
 *Hypertext Markup Language* atau HTML adalah bahasa markup yang digunakan untuk membuat sebuah halaman web. Isinya terdiri dari berbagai kode yang dapat menyusun struktur suatu website.
 
@@ -69,8 +65,9 @@ Mengenal Tag HTML, Elemen, dan Atribut
 Setelah mengetahui bagaimana sejarah dari HTML, sekarang Anda perlu tahu komponen-komponen yang terdapat pada HTML. 
 
 Secara umum HTML terdiri dari Tag, Elemen, dan Atribut. 
+<p align="center", size="20">
 <img src="h.jpg/">
-
+</p>
  Syntax | Description |
 | ----------- | ----------- |
 | html | Tag untuk membuat sebuah dokumen HTML |
