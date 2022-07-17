@@ -65,7 +65,7 @@ Mengenal Tag HTML, Elemen, dan Atribut
 Setelah mengetahui bagaimana sejarah dari HTML, sekarang Anda perlu tahu komponen-komponen yang terdapat pada HTML. 
 
 Secara umum HTML terdiri dari Tag, Elemen, dan Atribut. 
-<p align="center", size="20">
+<p align="center", size="10">
 <img src="h.jpg/">
 </p>
  Syntax | Description |
