@@ -55,7 +55,6 @@ Dengan adanya stagin area ini, para developer dapat memformat commit serta dapat
 7. GIT sederhana dalam penggunaannya 
 
 Untuk dapat memulai Anda dapat membuat repository ataupun men checkout yang telah ada. 
-
 <img src="g.jpg/">
 
 #
@@ -70,7 +69,7 @@ Mengenal Tag HTML, Elemen, dan Atribut
 Setelah mengetahui bagaimana sejarah dari HTML, sekarang Anda perlu tahu komponen-komponen yang terdapat pada HTML. 
 
 Secara umum HTML terdiri dari Tag, Elemen, dan Atribut. 
-<img src="H.jpg/">
+<img src="h.jpg/">
 
  Syntax | Description |
 | ----------- | ----------- |
